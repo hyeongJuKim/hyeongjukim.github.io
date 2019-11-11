@@ -5,7 +5,7 @@ author: "HyeongJu"
 permalink: /about/
 ---
 
-# About
+# Hyeongju Kim
 웹 개발자 김형주입니다.  
 현재 프리렌서로 일하고 있습니다.  
 단순한 기술자가 아닌 좋은 서비스를 만드는 개발자가 되기 위해 꾸준히 노력하고 성장하고 있습니다.  
@@ -36,14 +36,14 @@ permalink: /about/
 2015.08 - 2016.08 식품의약품안전처 선진화 시스템구축  
 
 # Toy Project
-[instagram-clone](http://52.79.112.138) 인스타그램 클론코딩  
-[my-book](https://github.com/hyeongJuKim/MyBook) 나의 책을 관리 할 수 있는서비스  
-[react todo-list](https://hyeongjukim.github.io/react-todo-list/) react tutoral  
-[another projects..](https://github.com/hyeongJuKim)  
+[instagram-clone](http://52.79.112.138){: target="_blank"} 인스타그램 클론코딩  
+[my-book](https://github.com/hyeongJuKim/MyBook){: target="_blank"} 나의 책을 관리 할 수 있는서비스  
+[react todo-list](https://hyeongjukim.github.io/react-todo-list/){: target="_blank"} react tutoral  
+[another projects..](https://github.com/hyeongJuKim){: target="_blank"}  
   
 # Link
-[instagram](https://www.instagram.com/hyeong._.ju/) 소소한 일상  
-[naver blog](https://blog.naver.com/keep-going-) 여행과 음악이 있는 블로그  
+[instagram](https://www.instagram.com/hyeong._.ju/){: target="_blank"} 소소한 일상  
+[naver blog](https://blog.naver.com/keep-going-){: target="_blank"} 여행과 음악이 있는 블로그  
 
 
 
