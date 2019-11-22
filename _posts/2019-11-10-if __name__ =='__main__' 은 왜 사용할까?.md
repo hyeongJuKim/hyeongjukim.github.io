@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "if __name__ =='__main__' 은 왜 사용할까?"
+title:  "if __name__ == '__main__' 은 왜 사용할까?"
 author: "HyeongJu"
 comments: true
 ---
