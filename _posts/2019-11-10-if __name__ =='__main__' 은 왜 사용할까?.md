@@ -3,6 +3,7 @@ layout: post
 title:  "if __name__ == '__main__' 은 왜 사용할까?"
 author: "HyeongJu"
 comments: true
+tags: [Python]
 ---
 
 __name__ 은 모듈의 이름을 저장하는 파이썬 내장 변수이다.  
