@@ -27,7 +27,7 @@ comments: true
   {% if page.tags %}
     {% for tag in page.tags %}
       {% if site.data.tags contains tag %}
-        <a class="tag" href="{{ '/tags/' | site.baseurl }}#{{site.data.format[tag]}}">{{ site.data.format[tag] }}</a>
+        <a class="tag" href="{{site.baseurl }}/tags/#{{site.data.format[tag]}}">{{ site.data.format[tag] }}</a>
       {% endif %}
     {% endfor %}
   {% endif %}
