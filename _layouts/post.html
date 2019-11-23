@@ -11,7 +11,6 @@ comments: true
     {% else %}
         {{ site.author.name }}
     {% endif %}
-
     {% if page.date %}
       <br>
       <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
@@ -22,6 +21,16 @@ comments: true
   <div class="post-line"></div>
 
   {{ content }}
+</div>
+
+<div class="tag-wrapper">
+  {% if page.tags %}
+    {% for tag in page.tags %}
+      {% if site.data.tags contains tag %}
+        <a class="tag" href="{{ '/tags/' | site.baseurl }}#{{site.data.format[tag]}}">{{ site.data.format[tag] }}</a>
+      {% endif %}
+    {% endfor %}
+  {% endif %}
 </div>
 
 {% if page.comments %}

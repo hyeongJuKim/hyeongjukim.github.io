@@ -1,14 +1,21 @@
 .catalogue {
   &-item {
-    border-bottom: 1px solid $grey-2;
+    border-top: 1px solid $grey-2;
     color: $default-color;
     display: block;
-    padding: 2rem 0;
+    padding-top: 2rem;
 
     &:last-child {
       border: 0;
     }
+
   }
+
+  &-post-tag {
+    border-bottom: 1px solid $grey-2;
+    padding-bottom: 2rem;
+  }
+
 
   &-time {
     color: $default-tint;

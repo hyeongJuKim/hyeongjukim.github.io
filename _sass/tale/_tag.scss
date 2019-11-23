@@ -1,0 +1,36 @@
+.tag-wrapper {
+    margin-bottom: 2rem;
+}
+
+.archive-group {
+    padding-top: 10px;
+}
+
+.tag {
+    display: inline-block;
+    height: 26px;
+    margin: 4px 4px 0 0;
+    padding: 0 10px;
+    font-size: 13px;
+    line-height: 27px;
+    cursor: pointer;
+    background-color: #eff1ff;
+    vertical-align: top;
+    color: #2d50ff;
+}
+
+.tag:hover {
+    background-color: #d5dcff;
+    text-decoration: none !important;
+    cursor: pointer;
+    color: #2d50ff;
+}
+
+.archive-item > div {
+    margin: .5rem 0;
+}
+
+.archive-item > div > a {
+    color: black;
+
+}
