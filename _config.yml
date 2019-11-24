@@ -2,7 +2,7 @@
 title:          HyeongJu
 description:    Web Devloper. HyeongJu
 #baseurl:        "/tale"
-url:            "https://hyeongjukim.github.io"
+url:            https://hyeongjukim.github.io
 
 # Google Analytics
 google_analytics: UA-153225361-1
