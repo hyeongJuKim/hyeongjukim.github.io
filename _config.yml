@@ -1,8 +1,10 @@
 # Site settings
 title:          HyeongJu
 description:    Web Devloper. HyeongJu
-#baseurl:        "/tale"
+baseurl:        ''
 url:            https://hyeongjukim.github.io
+timezone:       Asia/Seoul
+repository:     hyeongjukim.github.io
 
 # Google Analytics
 google_analytics: UA-153225361-1
