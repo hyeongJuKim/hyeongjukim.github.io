@@ -1,11 +1,11 @@
 # Site settings
 title:          HyeongJu
-description:    Web Devloper. HyeongJu
+description:    개발자 HyeongJu의 기술 블로그
 baseurl:        ''
 url:            https://hyeongjukim.github.io
 name:           HyeongJu
 timezone:       Asia/Seoul
-locale:         ko-KR
+lang:           ko_KR
 repository:     hyeongjukim.github.io
 
 # Google Analytics
