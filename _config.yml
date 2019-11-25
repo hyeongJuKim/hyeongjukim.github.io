@@ -3,7 +3,9 @@ title:          HyeongJu
 description:    Web Devloper. HyeongJu
 baseurl:        ''
 url:            https://hyeongjukim.github.io
+name:           HyeongJu
 timezone:       Asia/Seoul
+locale:         ko-KR
 repository:     hyeongjukim.github.io
 
 # Google Analytics
