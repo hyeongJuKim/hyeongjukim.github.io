@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /tags/
-title: Tag
 ---
 
 {% include head.html %}
@@ -10,6 +9,7 @@ title: Tag
     {% include navigation.html %}
 
     <main>
+        <h1 class="catalogue-title">{{ tags.title }}</h1>
         <div class="post">
             <ul class="tag-cloud">
             {% for tag in site.tags %}
@@ -43,8 +43,8 @@ title: Tag
                     <article class="archive-item">
                         <div>
                             <a href="{{ root_url }}{{ post.url }}">
-                                {{post.title}}
-                            </a>
+                                <li>{{post.title}}</li>
+                            </a>                            
                         </div>
                     </article>
                 {% endfor %}
