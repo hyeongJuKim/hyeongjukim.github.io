@@ -10,3 +10,5 @@ linux: LINUX
 LINUX: LINUX
 React: React
 react: React
+crontab: crontab
+스케쥴러: 스케쥴러
