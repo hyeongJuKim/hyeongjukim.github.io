@@ -327,4 +327,4 @@ App.js의 코드를 수정하자.
 
 
 ## 마치며..
-이 글은 https://justmakeyourself.tistory.com/entry/django-connect-react 을 참고해서 작성했습니다.
+이 글은 [justmakeyourself blog](https://justmakeyourself.tistory.com/entry/django-connect-react){: target="_blank"} 을 참고해서 작성했습니다.
