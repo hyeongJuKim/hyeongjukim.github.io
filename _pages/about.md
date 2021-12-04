@@ -11,7 +11,7 @@ permalink: /about/
 단순한 기술자가 아닌 좋은 서비스를 만드는 개발자가 되기 위해 꾸준히 노력하고 성장하고 있습니다.  
 
 ---
-  
+
 
 # Technical Skills
 - Frondend
@@ -40,10 +40,4 @@ permalink: /about/
 [my-book](https://github.com/hyeongJuKim/MyBook){: target="_blank"} 나의 책을 관리 할 수 있는서비스  
 [react todo-list](https://hyeongjukim.github.io/react-todo-list/){: target="_blank"} react tutoral  
 [another projects..](https://github.com/hyeongJuKim){: target="_blank"}  
-  
-# Link
-[instagram](https://www.instagram.com/hyeong._.ju/){: target="_blank"} 소소한 일상  
-[naver blog](https://blog.naver.com/keep-going-){: target="_blank"} 여행과 음악이 있는 블로그  
-
-
 
