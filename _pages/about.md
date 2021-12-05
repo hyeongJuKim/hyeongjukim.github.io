@@ -16,7 +16,7 @@ __Blog.__ [hyeongjukim.github.io](https://hyeongjukim.github.io/){: target="_bla
 <br>
 
 # Technical Skills
-- Frondend
+- Frontend
   - JavaScript, jQuery
 - Backend
   - Language: Java, Python
