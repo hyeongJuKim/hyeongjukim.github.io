@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include navigation.html %}
+
+    <main>
+      <div class="post">
+        <h1 class="post-title">{{ page.title }}</h1>
+        <div class="post-line"></div>
+      </div>
+    
+      {{ content }}
+    </main>
+
+    {% include footer.html %}
+    {% include analytics.html %}
+  </body>
+</html>
