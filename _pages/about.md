@@ -5,7 +5,7 @@ author: "HyeongJu"
 permalink: /about/
 ---
 
-프리렌서 웹개발자 김형주입니다.  
+프리랜서 웹 개발자 김형주입니다.  
 좋은 서비스를 만드는 사람이 되기 위해 성장하고 있습니다.  
 <br>
 
@@ -26,12 +26,12 @@ __Blog.__ [hyeongjukim.github.io](https://hyeongjukim.github.io/){: target="_bla
 - ETC
   - SVN, GIT, AWS
 - Interest
-  - CleanCode
+  - CleanCode 
 
 <br>
 
 # Career
-2021.11-`( NOW )` 미래를 준비중  
+<!--2021.11-`( NOW )` 미래를 준비중  -->
 2021.01-2021.11 해양수산부 관련 프로젝트 신규사업 및 유지보수  
 2020.02-2020.12 차세대 전자여권 CHIP 발급 시스템 개발  
 2019.06-2020.02 통합식품안전정보망 기능 확대 구축  
